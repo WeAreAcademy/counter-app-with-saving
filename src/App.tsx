@@ -1,7 +1,7 @@
-import NumberPicker from "./components/NumberPicker";
+import EmojiPickers from "./components/EmojiPickers";
 
 function App(): JSX.Element {
-  return <NumberPicker />;
+  return <EmojiPickers />;
 }
 
 export default App;
